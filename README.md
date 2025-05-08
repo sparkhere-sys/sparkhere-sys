@@ -5,6 +5,7 @@ i'm a wannabe programmer, and a professional dumbass
 ## some programming languages i know
 - python
 - godot script
+  
 yea uh
 
 thats really it
