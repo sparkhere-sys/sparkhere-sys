@@ -1,16 +1,28 @@
-## Hi there 👋
+# yo, im spark
 
-<!--
-**sparkhere-sys/sparkhere-sys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+i'm a wannabe programmer, and a professional dumbass
 
-Here are some ideas to get you started:
+## some programming languages i know
+- python
+- godot script
+yea uh
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+thats really it
+
+## cool stuff im working on
+
+nothing.
+
+## personal stuff
+
+Pronouns: He/Him
+
+Gender: Male
+
+I'm Muslim
+
+Sudanese
+
+My Discord is spark_sys
+
+# uhhh bye
