@@ -4,7 +4,8 @@ i'm a wannabe programmer, and a professional dumbass
 
 ## some programming languages i know
 - python
-- godot script
+- godot's scripting language
+- bash scripting
   
 yea uh
 
