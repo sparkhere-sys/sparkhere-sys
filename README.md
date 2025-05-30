@@ -4,8 +4,7 @@ i'm a wannabe programmer, and a professional dumbass
 
 ## some programming languages i know
 - python
-- godot's scripting language
-- bash scripting
+- bash scripting (its a shell scripting language and not a programming language, i know, but its close enough)
   
 yea uh
 
@@ -13,7 +12,11 @@ thats really it
 
 ## cool stuff im working on
 
-nothing.
+well
+
+there's [wahoo](https://github.com/sparkhere-sys/wahoo/), a funny AUR helper i wrote in python
+
+and there's [archapt](https://github.com/sparkhere-sys/archapt/), which translates `apt` commands to their `pacman` equivalents. i wrote this one in bash
 
 ## personal stuff
 
