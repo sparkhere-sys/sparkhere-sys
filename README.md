@@ -20,7 +20,7 @@ thats really it
 
 ## cool stuff im working on
 
-well
+well,
 
 there's [wahoo](https://github.com/sparkhere-sys/wahoo/), a funny AUR helper i wrote in python
 
@@ -37,5 +37,7 @@ I'm Muslim
 Sudanese
 
 My Discord is spark_sys
+
+also I have an [email](mailto:spark-aur@proton.me) if you'd like to contact me relating to my arch packages
 
 # uhhh bye
