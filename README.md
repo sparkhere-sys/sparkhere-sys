@@ -8,7 +8,7 @@ i'm a wannabe programmer, and a professional dumbass
 > 
 > I'm fine with you doing anything with my stuff, I won't yell at you.
 > 
-> But if you are trying to use anything I have made public here on GitHub for commercial usage then I will have to politely ask you to cease.
+> But if you are trying to use anything I have made public here on GitHub for commercial purposes then I will have to politely ask you to cease.
 
 ## some programming languages i know
 - python
