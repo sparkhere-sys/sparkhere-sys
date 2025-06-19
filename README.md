@@ -1,6 +1,8 @@
-# yo, im spark
+# spark.md
 
 i'm a wannabe programmer, and a professional dumbass
+
+check out my [website](https://sparkhere-sys.github.io) ig
 
 > I think its important to mention this:
 > 
@@ -13,31 +15,47 @@ i'm a wannabe programmer, and a professional dumbass
 ## some programming languages i know
 - python
 - bash scripting (its a shell scripting language and not a programming language, i know, but its close enough)
+- javascript (just barely.)
   
-yea uh
+yeah uh
 
 thats really it
 
+## langauges i want to learn
+- java (because minecraft)
+- rust (because why not)
+
+## languages i don't want to learn
+- C++ (screw c++)
+
 ## cool stuff im working on
 
-well,
+- **[wahoo](https://github.com/sparkhere-sys/wahoo/)**: a simple, lightweight AUR helper written in python. you can also call it yaAURh because its yet another AUR helper
+- **[archapt](https://github.com/sparkhere-sys/archapt/)**: a wrapper for `pacman` that pretends that its `apt`, written in bash. if you're feeling adventurous, install it as `dnf`. go ahead, i dare you.
 
-there's [wahoo](https://github.com/sparkhere-sys/wahoo/), a funny AUR helper i wrote in python
+## stuff i like
 
-and there's [archapt](https://github.com/sparkhere-sys/archapt/), which translates `apt` commands to their `pacman` equivalents. i wrote this one in bash
+- gaming in general
+  - retro games
+  - team fortress 2
+  - sonic the hedgehog (have you seen my profile picture?)
+  - celeste
+  - jet set radio
+  - mega man (capcom pls give us mega man x9 :pray:)
+- anime and manga
+  - jujutsu kaisen
+  - naruto
+  - bocchi the rock
+- open source (why else do you think i'm on github?)
+- linux (duh)
 
 ## personal stuff
 
-Pronouns: He/Him
-
-Gender: Male
-
-I'm Muslim
-
-Sudanese
-
-My Discord is spark_sys
-
-also I have an [email](mailto:spark-aur@proton.me) if you'd like to contact me relating to my arch packages
+- Pronouns: **He/Him**
+- Gender: **Male**
+- **Muslim**
+- **Sudanese**
+- Discord: **spark_sys**
+- contact me at [spark-aur@proton.me](mailto:spark-aur@proton.me) if you want to yell at me in my email
 
 # uhhh bye
