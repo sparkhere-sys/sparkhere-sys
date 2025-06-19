@@ -21,7 +21,7 @@ yeah uh
 
 thats really it
 
-## langauges i want to learn
+## languages i want to learn
 - java (because minecraft)
 - rust (because why not)
 
