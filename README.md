@@ -4,14 +4,6 @@ i'm a wannabe programmer, and a professional dumbass
 
 check out my [website](https://sparkhere-sys.github.io) ig
 
-> I think its important to mention this:
-> 
-> Please, for the love of all that is holy, do NOT sell my work.
-> 
-> I'm fine with you doing anything with my stuff, I won't yell at you.
-> 
-> But if you are trying to use anything I have made public here on GitHub for commercial purposes then I will have to politely ask you to cease.
-
 ## some programming languages i know
 - python
 - bash scripting (its a shell scripting language and not a programming language, i know, but its close enough)
@@ -59,3 +51,11 @@ thats really it
 - contact me at [spark-aur@proton.me](mailto:spark-aur@proton.me) if you want to yell at me in my email
 
 # uhhh bye
+
+> Important thing I should mention:
+> 
+> Please, for the love of all that is holy, do NOT sell my work.
+>
+> I'm fine with you doing anything with my stuff, I won't yell at you.
+>
+> But if you are trying to use anything I have made public here on GitHub for commercial purposes then I will have to politely ask you to cease.
