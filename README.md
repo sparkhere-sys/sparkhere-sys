@@ -1,6 +1,5 @@
 # spark.md
-
-i'm a wannabe programmer, and a professional dumbass
+programmer, or something.
 
 check out my [website](https://sparkhere-sys.github.io) ig
 
@@ -13,12 +12,12 @@ yeah uh
 thats really it
 
 ## languages i want to learn
+- C++ (i'm learning it right now)
 - java (because minecraft)
 - kotlin (because its java but better)
 - rust (because why not)
 
 ## languages i don't want to learn
-- C++ (screw c++)
 - C (because no OOP)
 - javascript (screw js)
 
@@ -46,9 +45,11 @@ thats really it
 
 ## personal stuff
 
-i started programming when i was 6 years old, with good ol' scratch. my account is still on scratch to this day, check it out: [click me](https://scratch.mit.edu/users/7xel_Official)
+i started programming when i was 6 years old, with good ol' scratch. 
 
 nothing's changed since then! i'm still a programmer, always was, always will be.
+
+i still have a scratch account to this day! you can find my current one [here](https://scratch.mit.edu/users/7xel_Official)
 
 - Pronouns: **He/Him**
 - Gender: **Male**
