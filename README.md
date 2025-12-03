@@ -16,9 +16,9 @@ thats really it
 - java (because minecraft)
 - kotlin (because its java but better)
 - rust (because why not)
+- C (because its C.)
 
 ## languages i don't want to learn
-- C (because no OOP)
 - javascript (screw js)
 
 ## cool stuff im working on
@@ -26,6 +26,11 @@ thats really it
 - **[wahoo](https://github.com/sparkhere-sys/wahoo/)**: a simple, lightweight AUR helper written in python. you can also call it yaAURh because its yet another AUR helper
 - **[archapt](https://github.com/sparkhere-sys/archapt/)**: a wrapper for `pacman` that pretends that its `apt`, written in bash. if you're feeling adventurous, install it as `dnf`. go ahead, i dare you.
 - **[bolt](https://github.com/sparkhere-sys/bolt/)**: a discord bot i wrote in python. ya gotta self host it though.
+
+## friends :D
+
+- **[ad](https://github.com/ad-pl)**
+- **[O5-3](https://github.com/O5-3TheKid)**
 
 ## stuff i like
 
