@@ -12,14 +12,13 @@ yeah uh
 thats really it
 
 ## languages i want to learn
-- C++ (i'm learning it right now)
-- java (because minecraft)
-- kotlin (because its java but better)
-- rust (because why not)
-- C (because its C.)
+- the C family of languages
+- kotlin
+- rust
 
-## languages i don't want to learn
-- javascript (screw js)
+## languages i despise with a passion
+- javascript
+- typescript
 
 ## cool stuff im working on
 
@@ -42,9 +41,8 @@ thats really it
   - jet set radio
   - mega man (capcom pls give us mega man x9 :pray:)
 - anime and manga
-  - jujutsu kaisen
-  - naruto
-  - bocchi the rock
+- football
+  - manchester united
 - open source (why else do you think i'm on github?)
 - linux (duh)
 
