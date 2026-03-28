@@ -5,6 +5,7 @@ check out my [website](https://sparkhere-sys.github.io) ig
 
 ## some programming languages i know
 - python
+- C++ (still learning it!)
 - bash scripting (its a shell scripting language and not a programming language, i know, but its close enough)
   
 yeah uh
@@ -12,7 +13,7 @@ yeah uh
 thats really it
 
 ## languages i want to learn
-- the C family of languages
+- C and C#
 - kotlin
 - rust
 
@@ -23,8 +24,9 @@ thats really it
 ## cool stuff im working on
 
 - **[wahoo](https://github.com/sparkhere-sys/wahoo/)**: a simple, lightweight AUR helper written in python. you can also call it yaAURh because its yet another AUR helper
-- **[archapt](https://github.com/sparkhere-sys/archapt/)**: a wrapper for `pacman` that pretends that its `apt`, written in bash. if you're feeling adventurous, install it as `dnf`. go ahead, i dare you.
+- **[archapt](https://github.com/sparkhere-sys/archapt/)**: a wrapper for `pacman` that pretends that its `apt`, written in bash. if you're feeling adventurous, rename it to `dnf`. go ahead, i dare you.
 - **[bolt](https://github.com/sparkhere-sys/bolt/)**: a discord bot i wrote in python. ya gotta self host it though.
+- **[StrUtils.hpp](https://github.com/sparkhere-sys/strutils)**: a C++ header only library that tries to emulate python's `str` API, for the people who love python and dont want to suffer through C++
 
 ## friends :D
 
@@ -42,13 +44,13 @@ thats really it
   - mega man (capcom pls give us mega man x9 :pray:)
 - anime and manga
 - football
-  - manchester united
+  - manchester united (GLORY GLORY MAN UNITED :red_circle:)
 - open source (why else do you think i'm on github?)
 - linux (duh)
 
 ## personal stuff
 
-i started programming when i was 6 years old, with good ol' scratch. 
+i started programming when i was 8 years old, with good ol' scratch. 
 
 nothing's changed since then! i'm still a programmer, always was, always will be.
 
